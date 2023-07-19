@@ -4,7 +4,7 @@
 ### 9A
 #### Desarrollo de Dispositivos Inteligentes
 
-![Banner](Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
+![Banner](https://i.postimg.cc/28Zg3QFz/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
 ## Practica 7 Saludo
 
